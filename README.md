@@ -1,1 +1,8 @@
-this project is basically extract the price from the e-commerce websites and thus the prices can be compared for the best buy
+Hello 
+
+This is Harini 
+
+This repo is the projects & explorations that I had in tech
+
+Hope you like it!!!
+
